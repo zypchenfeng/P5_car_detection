@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Vehicle Detection
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
@@ -35,3 +36,10 @@ Some example images for testing your pipeline on single frames are located in th
 ## How to write a README
 A well written README file can enhance your project and portfolio.  Develop your abilities to create professional README files by completing [this free course](https://www.udacity.com/course/writing-readmes--ud777).
 
+=======
+# P5_car_detection
+The submitted project include the following files:
+1. The P5_CarDetection.ipynb include the code
+2. writeup_final.md is the final report
+3. The project video is included, and also can be found on Youtube: https://youtu.be/Dbmvhklraw4
+>>>>>>> 74999d47ed3707b6f19ca6e648e2af9bf8a5722d
